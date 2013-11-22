@@ -1,8 +1,8 @@
 {
-    "name": "jsDAV",
-    "description": "jsDAV allows you to easily add WebDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.",
+    "name": "cozy-jsdav-fork",
+    "description": "https://npmjs.org/package/jsDAV temporary fork including caldav. Published to npm to handle versions with cozy-webdav, please use the original package.",
     "version": "0.3.2",
-    "homepage" : "http://github.com/mikedeboer/jsDAV",
+    "homepage": "http://github.com/aenario/jsDAV",
     "engines": {"node": ">= 0.4.0"},
     "author": "Mike de Boer <info@mikedeboer.nl>",
     "scripts": {
@@ -11,7 +11,7 @@
     "main": "lib/jsdav",
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/mikedeboer/jsDAV.git"
+        "url" : "http://github.com/aenario/jsDAV.git"
     },
     "dependencies": {
         "asyncjs": "~0.0.8",
