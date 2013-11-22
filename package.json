@@ -1,7 +1,7 @@
 {
     "name": "cozy-jsdav-fork",
     "description": "https://npmjs.org/package/jsDAV temporary fork including caldav. Published to npm to handle versions with cozy-webdav, please use the original package.",
-    "version": "0.3.2",
+    "version": "0.3.2-caldav",
     "homepage": "http://github.com/aenario/jsDAV",
     "engines": {"node": ">= 0.4.0"},
     "author": "Mike de Boer <info@mikedeboer.nl>",
