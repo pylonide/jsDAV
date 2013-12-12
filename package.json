@@ -1,34 +1,38 @@
 {
-    "name": "cozy-jsdav-fork",
-    "description": "https://npmjs.org/package/jsDAV temporary fork including caldav. Published to npm to handle versions with cozy-webdav, please use the original package.",
-    "version": "0.3.2-caldav",
-    "homepage": "http://github.com/aenario/jsDAV",
-    "engines": {"node": ">= 0.4.0"},
-    "author": "Mike de Boer <info@mikedeboer.nl>",
-    "scripts": {
-        "test": "node test/test_server.js"
-    },
-    "main": "lib/jsdav",
-    "repository" : {
-        "type" : "git",
-        "url" : "http://github.com/aenario/jsDAV.git"
-    },
-    "dependencies": {
-        "asyncjs": "~0.0.8",
-        "formidable": "~1.0.11",
-        "xmldom": "~0.1.13",
-        "xpath": "~0.0.5"
-    },
-    "optionalDependencies": {
-        "jsftp": "~0.5.4",
-        "node-sftp": "0.1.1",
-        "dbox": "~0.5.6",
-        "redis": "~0.8.2",
-        "mongodb": "~1.2.12",
-        "gnu-tools": "0.0.x"
-    },
-    "licenses": [{
-        "type": "The MIT License",
-        "url": "http://www.opensource.org/licenses/mit-license.php"
-    }]
+  "name": "cozy-jsdav-fork",
+  "description": "https://npmjs.org/package/jsDAV temporary fork including caldav. Published to npm to handle versions with cozy-webdav, please use the original package.",
+  "version": "0.3.3-caldav",
+  "homepage": "http://github.com/aenario/jsDAV",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "author": "Mike de Boer <info@mikedeboer.nl>",
+  "scripts": {
+    "test": "node test/test_server.js"
+  },
+  "main": "lib/jsdav",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aenario/jsDAV.git"
+  },
+  "dependencies": {
+    "asyncjs": "~0.0.8",
+    "formidable": "~1.0.11",
+    "xmldom": "~0.1.13",
+    "xpath": "~0.0.5"
+  },
+  "optionalDependencies": {
+    "jsftp": "~0.5.4",
+    "node-sftp": "0.1.1",
+    "dbox": "~0.5.6",
+    "redis": "~0.8.2",
+    "mongodb": "~1.2.12",
+    "gnu-tools": "0.0.x"
+  },
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
 }
