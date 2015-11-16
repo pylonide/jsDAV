@@ -1,7 +1,7 @@
 {
   "name": "cozy-jsdav-fork",
   "description": "jsDAV allows you to easily add WebDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "homepage": "http://github.com/cozy/jsDAV",
   "engines": {
     "node": ">= 0.4.0"
