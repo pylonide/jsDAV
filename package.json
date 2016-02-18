@@ -30,8 +30,7 @@
     "dbox": "0.6.4",
     "redis": "2.4.2",
     "mongodb": "2.1.4",
-    "pg": "4.4.3",
-    "gnu-tools": "0.0.9"
+    "pg": "4.4.3"
   },
   "devDependencies": {
     "chai": "latest",
