@@ -1,11 +1,11 @@
 {
-  "name": "cozy-jsdav-fork",
+  "name": "jsDAV",
   "description": "jsDAV allows you to easily add WebDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.",
-  "version": "0.3.17",
+  "version": "0.4.0",
   "license": "MIT",
-  "homepage": "http://github.com/cozy/jsDAV",
+  "homepage": "http://github.com/pylonide/jsDAV",
   "engines": {
-    "node": ">= 0.4.0"
+    "node": ">= 4.9.1"
   },
   "author": "Mike de Boer <info@mikedeboer.nl>",
   "scripts": {
@@ -15,24 +15,18 @@
   "main": "lib/jsdav",
   "repository": {
     "type": "git",
-    "url": "http://github.com/cozy/jsDAV.git"
+    "url": "http://github.com/pylonide/jsDAV.git"
   },
   "dependencies": {
-    "asyncjs": "0.0.10",
-    "formidable": "1.0.17",
-    "xmldom": "0.1.21",
-    "xpath": "0.0.21",
-    "moment": "2.19.3"
+    "asyncjs": "https://github.com/pylonide/async.js/tarball/be2c5b9195312c9c4aa8c3e29932b0b9784bcae7",
+    "formidable": "~1.2.1",
+    "xmldom": "~0.1.27",
+    "xpath": "~0.0.27",
+    "moment": "~2.24.0"
   },
   "devDependencies": {
-    "chai": "latest",
-    "mocha": "",
+    "chai": "~4.2.0",
+    "mocha": "~6.1.4",
     "assert": ""
-  },
-  "licenses": [
-    {
-      "type": "The MIT License",
-      "url": "http://www.opensource.org/licenses/mit-license.php"
-    }
-  ]
+  }
 }
