@@ -22,7 +22,7 @@
     "formidable": "1.0.17",
     "xmldom": "0.1.21",
     "xpath": "0.0.21",
-    "moment": "2.11.1"
+    "moment": "2.19.3"
   },
   "devDependencies": {
     "chai": "latest",
