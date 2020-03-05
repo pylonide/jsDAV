@@ -20,7 +20,7 @@
   "dependencies": {
     "asyncjs": "https://github.com/pylonide/async.js/tarball/be2c5b9195312c9c4aa8c3e29932b0b9784bcae7",
     "formidable": "~1.2.1",
-    "xmldom": "~0.1.27",
+    "xmldom": "~0.3.0",
     "xpath": "~0.0.27",
     "moment": "~2.24.0"
   },
