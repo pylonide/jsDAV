@@ -5,7 +5,7 @@
   "license": "MIT",
   "homepage": "http://github.com/pylonide/jsDAV",
   "engines": {
-    "node": ">= 4.9.1"
+    "node": ">= 10.20.1"
   },
   "author": "Mike de Boer <info@mikedeboer.nl>",
   "scripts": {
@@ -18,7 +18,7 @@
     "url": "http://github.com/pylonide/jsDAV.git"
   },
   "dependencies": {
-    "asyncjs": "https://github.com/pylonide/async.js/tarball/be2c5b9195312c9c4aa8c3e29932b0b9784bcae7",
+    "asyncjs": "~0.0.13",
     "formidable": "~1.2.1",
     "xmldom": "~0.3.0",
     "xpath": "~0.0.27",
