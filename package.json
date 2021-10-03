@@ -9,8 +9,9 @@
   },
   "author": "Mike de Boer <info@mikedeboer.nl>",
   "scripts": {
-    "test": "node test/test_server.js",
-    "mocha": "find ./test/postgre -name '*.js' | xargs mocha"
+    "test": "echo No tests specified",
+    "testserver": "node test/test_server.js",
+    "mocha": "find ./test -name '*.js' | xargs ./node_modules/mocha/bin/mocha"
   },
   "main": "lib/jsdav",
   "repository": {
