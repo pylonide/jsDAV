@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "asyncjs": "~0.0.13",
-    "formidable": "~1.2.1",
+    "formidable": "~2.0.1",
     "xmldom": "~0.6.0",
     "xpath": "~0.0.32",
     "moment": "~2.29.1"
