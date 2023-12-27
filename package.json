@@ -27,7 +27,7 @@
     "formidable": "~3.5.0",
     "@xmldom/xmldom": "~0.8.0",
     "xpath": "~0.0.32",
-    "moment": "~2.29.1"
+    "moment": "~2.30.1"
   },
   "devDependencies": {
     "chai": "~4.3.4",
