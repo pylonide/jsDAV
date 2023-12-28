@@ -30,7 +30,7 @@
     "moment": "~2.30.1"
   },
   "devDependencies": {
-    "chai": "~4.3.4",
+    "chai": "~5.0.0",
     "mocha": "~10.2.0",
     "assert": ""
   }
