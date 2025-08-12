@@ -1,7 +1,7 @@
 {
   "name": "@pylonide/jsdav",
   "description": "jsDAV allows you to easily add WebDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "homepage": "http://github.com/pylonide/jsDAV",
   "engines": {
@@ -25,7 +25,7 @@
   "dependencies": {
     "asyncjs": "~0.0.13",
     "formidable": "~3.5.0",
-    "@xmldom/xmldom": "~0.9.6",
+    "@xmldom/xmldom": "~0.9.8",
     "xpath": "~0.0.32",
     "moment": "~2.30.1"
   },
